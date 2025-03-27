@@ -13,20 +13,20 @@ Evaluate the model's performance using appropriate metrics.
 
 Methodology:
 
-Data Preprocessing
-Handle missing values
-Normalize and scale features
-Encode categorical variables
-Exploratory Data Analysis (EDA)
-Visualize feature relationships with the target variable
-Identify correlations and outliers
-Model Training and Evaluation
-Split the data into training and test sets
-Train various regression models including:
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
-Evaluate models using metrics such as Mean Squared Error (MSE) and R² score
+Data Preprocessing,
+Handle missing values,
+Normalize and scale features,
+Encode categorical variables,
+Exploratory Data Analysis (EDA),
+Visualize feature relationships with the target variable,
+Identify correlations and outliers,
+Model Training and Evaluation,
+Split the data into training and test sets,
+Train various regression models including,
+Linear Regression,
+Decision Tree Regressor,
+Random Forest Regressor,
+Evaluate models using metrics such as Mean Squared Error (MSE) and R² score.
 
 Results and Discussion:
 
